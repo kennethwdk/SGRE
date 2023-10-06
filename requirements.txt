@@ -1,0 +1,9 @@
+opencv-python
+torchgeometry
+transforms3d
+pycocotools
+pyyaml
+easydict
+tqdm
+chumpy
+numpy==1.23.0

@@ -3,6 +3,20 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+common/utils/smplpytorch/smplpytorch/native/models
+data/Human36M/annotations
+data/Human36M/images
+data/Human36M/J_regressor_h36m_correct.npy
+data/MPII/data
+data/MSCOCO/annotations
+data/MSCOCO/images
+data/MSCOCO/J_regressor_coco_hip_smpl.npy
+data/MuCo/data
+data/PW3D/data
+data/J_regressor_extra.npy
+output
+tool/snapshot_0.pth.tar
+
 # C extensions
 *.so
 
